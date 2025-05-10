@@ -1,5 +1,5 @@
 
-# 🧠 Legal Ease – AI-Powered Indian Constitution Chatbot
+#  Legal Ease – AI-Powered Indian Constitution Chatbot
 
 **Legal Ease** is an AI-driven legal assistant designed to simplify access to the Indian Constitution. It enables users to interact through text and voice, search legal articles intelligently, and explore constitutional content in a structured way.
 
