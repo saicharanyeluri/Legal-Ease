@@ -10,8 +10,8 @@ from langchain_core.prompts import PromptTemplate
 import os
 
 # ------------------ API KEYS ------------------
-PINECONE_API_KEY = "pcsk_6kCw69_TxKxRKuxhmHy9Fdx5ir8ty6p4XtrZySR9sfYj6XGgxBbUjVNjjQm5J2jmMs6hPt"
-GROQ_API_KEY = "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"
+PINECONE_API_KEY = "Your pinecone api key"
+GROQ_API_KEY = "Your groq api key"
 os.environ["PINECONE_API_KEY"] = PINECONE_API_KEY
 
 # ------------------ Streamlit Setup ------------------
