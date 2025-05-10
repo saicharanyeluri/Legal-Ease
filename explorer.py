@@ -206,8 +206,8 @@ def set_page_styling():
 def initialize_qa_system():
     """Initialize the QA system with LangChain and Pinecone"""
     # Load API keys
-    PINECONE_API_KEY = "pcsk_6kCw69_TxKxRKuxhmHy9Fdx5ir8ty6p4XtrZySR9sfYj6XGgxBbUjVNjjQm5J2jmMs6hPt"
-    GROQ_API_KEY = "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"
+    PINECONE_API_KEY = "Your Pinecone api key"
+    GROQ_API_KEY = "Your groq api key"
     os.environ["PINECONE_API_KEY"] = PINECONE_API_KEY
     
     # Initialize embeddings and vector store
